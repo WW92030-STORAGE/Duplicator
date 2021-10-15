@@ -1,3 +1,3 @@
 # Duplicator [1.12]
-Orespawn-esque duplicator machine.\
+Orespawn-esque duplicator machine which duplicates blocks.\
 Duplicate responsibly.
