@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "duplicator:block/duplicator" }
+  }
+}
